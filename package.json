@@ -1,0 +1,43 @@
+{
+  "name": "lb-init",
+  "version": "1.0.0",
+  "description": "Kick Starter to develop WordPress themes with gulp, browser sync, stylus and other tools to make your life easier.",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leobaiano/lb-init.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "wordpress themmes",
+    "web developer wordpress",
+    "developer themme wordpress",
+    "wp themme",
+    "gulp",
+    "stylus"
+  ],
+  "author": "Leo Baiano",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.14.0",
+    "browser-sync": "^2.24.4",
+    "clean-css": "^4.1.11",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "gulp-zip": "^4.1.0",
+    "jeet": "^7.2.0",
+    "kouto-swiss": "^1.1.0",
+    "nib": "^1.1.2",
+    "rupture": "^0.7.1"
+  }
+}

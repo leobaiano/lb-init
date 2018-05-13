@@ -1,0 +1,11 @@
+# JS
+node_modules/**/*
+
+# macOS temp file
+.DS_Store
+
+# LOG
+*.log
+
+# Editors
+.vscode/

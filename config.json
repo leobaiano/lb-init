@@ -1,0 +1,13 @@
+{
+	"tasksPath": "./tasks",
+	"stylusSrcFolder": "./_source/css",
+	"stylusDestFolder": "./css",
+	"pugSrcFolder": "./_source",
+	"pugDestFolder": "./",
+	"jsSrcFolder": "./_source/js",
+	"jsDestFolder": "./js",
+	"imgSrcFolder": "./_source/img",
+	"imgDestFolder": "./img",
+	"buildDestFolder": "./",
+	"themmeName": "lb-init"
+}
