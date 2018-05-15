@@ -19,7 +19,7 @@ To work with media queries
 
 ## Get Start
 
-1. Clone the repository into the `wp-content / themmes` folder of your WordPress project `git clone git@github.com:leobaiano/lb-init.git`
+1. Clone the repository into the `wp-content / themes` folder of your WordPress project `git clone git@github.com:leobaiano/lb-init.git`
 2. Access the directory `cd lb-init`
 3. Install the dependencies `npm install`
 4. Start work `gulp default`
